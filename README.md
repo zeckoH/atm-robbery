@@ -8,6 +8,9 @@ It's translated in Dutch
 progressBars -> https://forum.cfx.re/t/release-progress-bars-1-0-standalone/526287 <br>
 mhacking -> https://github.com/justgreatgaming/FiveM-Scripts-2/tree/master/mhacking
 
+# DATABASE
+Make sure to create an item in your database with your defined item in the client script ;)
+
 # Credits
 Forked from -> https://forum.cfx.re/t/esx-atm-robbery/4723612 <br>
 I just made the check if an player has an hackingdevice in their inventory.
