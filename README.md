@@ -10,6 +10,7 @@ mhacking -> https://github.com/justgreatgaming/FiveM-Scripts-2/tree/master/mhack
 
 # DATABASE
 Make sure to create an item in your database with your defined item in the client script ;)
+or just import the `insert.sql` into your database.
 
 # Credits
 Forked from -> https://forum.cfx.re/t/esx-atm-robbery/4723612 <br>
